@@ -1,6 +1,13 @@
 # ETL-group-project: Team 13
-## Project Title - UFO Sightings compared to Airport locations
-## Team Members: Amanda Stambaugh, Katie Welter, Kelli Roddy, Scott Rehn
+## Project Title:
+
+    UFO Sightings compared to Airport locations
+
+
+## Team Members: 
+
+    Amanda Stambaugh, Katie Welter, Kelli Roddy, Scott Rehn
+
 
 ### Instructions
 1. Create a database in pgAdmin named ufo_db
