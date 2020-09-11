@@ -17,9 +17,9 @@
 
 
 3. Create a config.py file in the same directory as the jupyter notebook and add your userid and password in the following format:
+
+username = 'your username'
     
-    username = 'your username'
-    
-    password = 'your password'
+password = 'your password'
 
 4. Run the jupter notebook
