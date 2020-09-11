@@ -1,6 +1,6 @@
 -- Create tables
 CREATE TABLE ufo_sighting (
-	id INT PRIMARY KEY,
+	id SERIAL PRIMARY KEY,
 	date DATE,
 	time TIME,
 	city VARCHAR,
@@ -14,7 +14,7 @@ CREATE TABLE ufo_sighting (
 );
 
 CREATE TABLE airport (
-	id INT PRIMARY KEY,
+	id SERIAL PRIMARY KEY,
 	name VARCHAR,
 	type VARCHAR,
 	city VARCHAR,
